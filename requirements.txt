@@ -6,3 +6,4 @@ langchain-openai
 langchain-text-splitters
 faiss-cpu
 google-search-results
+pypdf
