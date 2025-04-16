@@ -1,0 +1,1 @@
+KCS_VECTOR_STORE_PATH = "faiss_vec_poc/kcs_vectorstore"
